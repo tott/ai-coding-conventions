@@ -77,41 +77,4 @@ Aider is an AI pair programming tool that can use these conventions to guide its
 
 For more information, see the [aider documentation on conventions](https://aider.chat/docs/usage/conventions.html).
 
----
-
-## How to Use with Other IDEs
-
-You can also use these conventions with other editors and AI coding assistants, such as Cursor, VS Code, or GitHub Copilot.
-
-- **Manual Reference**  
-  Open the relevant conventions file in a split window or tab for easy reference while coding.
-
-- **AI Integration**  
-  If your IDE supports AI coding assistants, you can:
-  - Paste relevant sections of the conventions into the AI's context window or prompt.
-  - Instruct the AI to follow the conventions by referencing the file directly in your prompt.
-
-- **Team Onboarding**  
-  Share these conventions with your team to ensure consistent code style and best practices across your project.
-
-- **Continuous Improvement**  
-  Encourage your team to update and refine the conventions as your project evolves.
-
----
-
-## Contributing
-
-Contributions and suggestions are welcome! Please open an issue or submit a pull request to propose changes, additions, or improvements to the conventions.
-
-When contributing, please:
-
-- Follow the style and structure of the existing conventions files.
-- Provide clear explanations and references for any new guidelines.
-- Ensure that your changes are relevant and broadly applicable.
-
----
-
-## License
-
-This repository is provided under the MIT License. See [LICENSE](LICENSE) for details.
 
